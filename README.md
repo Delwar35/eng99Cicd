@@ -58,6 +58,10 @@
 
 ![image](https://user-images.githubusercontent.com/94615905/145452493-4c72c94e-8f6c-4367-871f-bc1f81fb0f2c.png)
   
+![image](https://user-images.githubusercontent.com/94615905/145453226-806e877e-12a5-48c1-9f57-0a035e388783.png)
+  
+> Nothing selected for build triggers 
+  
 ![image](https://user-images.githubusercontent.com/94615905/145452620-be8532e5-5dbe-4cc8-a1df-982e6c50ccb4.png)
 
 > `jenkins(eng99)` is the eng99.pem file (key used when creating ec2 instance)
